@@ -1,7 +1,42 @@
 header{
+    display: flex;
+    justify-content: center;
     border:  1rem solid purple;
 }
 
 #hellokitty{
-height: 30rem;
+height: 8rem;
+}
+header #door {
+  height: 5rem;
+  width: 5rem;
+    border: 0.3rem solid purple;
+    border-radius: 50rem;
+}
+nav {
+    border: 0.2rem solid pink;
+}
+.hello{
+    border: 0.2rem solid black;
+}
+
+.my melody{
+  border: 0.2rem solid purple;
+}
+
+.kuromy{
+    border: 1rem solid plum;
+}
+
+
+aside{
+    border: 1rem solide purple;
+}
+
+main{
+    border: 1rem solid turquoise;
+}
+
+footer{
+    border: 1rem solid rebeccapurple;
 }
